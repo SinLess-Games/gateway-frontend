@@ -55,7 +55,7 @@
     "@babel/preset-typescript": "^7.12.16",
     "@babel/runtime": "^7.19.4",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.8",
-    "@testing-library/react": "^13.4.0",
+    "@testing-library/react": "^14.0.0",
     "@types/jest": "^29.0.0",
     "@types/lodash": "^4.14.186",
     "@types/mocha": "^10.0.0",
